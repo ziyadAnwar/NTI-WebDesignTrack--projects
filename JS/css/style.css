@@ -1,0 +1,19 @@
+body{
+    height: 6000px;
+}
+form{
+    max-width: 500px;
+    margin: 40px auto;
+}
+img{
+    width: 20%;
+}
+div{
+    margin: 100px auto;
+    display: inline-flex;
+    padding: 20px
+}
+
+table{
+    border: 2px solid;
+}
